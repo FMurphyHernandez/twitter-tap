@@ -1,0 +1,1 @@
+tap search --consumer-key CONSUMERKEY --consumer-secret CONSUMERSECRET -q "movistarmx OR telcel OR nextel OR iusacell OR unefon" -v DEBUG
